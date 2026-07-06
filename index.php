@@ -354,7 +354,7 @@ and responsive experiences that look great on every device.
 </section>
 
 <footer>
-© 2026 Nova. Crafted with ❤️ using only HTML & CSS & AI.
+© 2026 Nova. Crafted with ❤️ using only HTML & CSS & AI(GPT).
 </footer>
 
 </body>

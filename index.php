@@ -259,7 +259,7 @@ nav ul{
 <body>
 
 <nav>
-<div class="logo">Nova</div>
+<div class="logo">Zarnova</div>
 
 <ul>
 <li><a href="#">Home</a></li>
